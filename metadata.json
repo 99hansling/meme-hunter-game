@@ -1,0 +1,5 @@
+{
+  "name": "土狗猎人：传播定价模型",
+  "description": "基于传播定价模型 P(d) 的交易模拟游戏。掌握尽早入场（低 d 值）并在大众饱和前离场的艺术。",
+  "requestFramePermissions": []
+}
